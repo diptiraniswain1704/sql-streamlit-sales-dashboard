@@ -88,3 +88,6 @@ The application uses synthetic sales data for demonstration purposes.
 ## Author
 
 GitHub: https://github.com/diptiraniswain1704
+## Live Demo
+
+[View Sales Analytics Dashboard](https://business-sales-insights.streamlit.app)
